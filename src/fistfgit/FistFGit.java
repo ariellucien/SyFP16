@@ -18,6 +18,10 @@ public class FistFGit {
      * @param args the command line arguments
      */
     
+    public FistFGit()
+    {
+        System.out.println("Constructor");
+    }
     
     public static void main(String[] args) {
         // TODO code application logic here
