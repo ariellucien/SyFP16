@@ -12,6 +12,8 @@ package fistfgit;
 public class FistFGit {
     
     private int number;
+    private double pi;
+    private boolean bool;
     /**
      * @param args the command line arguments
      */
