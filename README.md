@@ -1,1 +1,2 @@
-# test2016
+# SyFP16
+Solaris y Fundamentos de Programación
