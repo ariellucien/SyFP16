@@ -3,21 +3,16 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package E1;
+package Er1;
 
 /**
  *
  * @author ariel
  */
-public class Test {
+public class Main {
     public static void main(String[] args) {
-        System.out.println("Hola");
-        Cesar c = new Cesar();
-        c.print(new Texto() {
-            @Override
-            public String getText() {
-                return "hola";
-            }
-        });
+        IClase a = new C1("sdsd");
+        AClase b = new C3("sdsd");
+        C2 c = new C2("dsdsd");
     }
 }
